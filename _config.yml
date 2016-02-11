@@ -20,19 +20,19 @@ avatar: http://findicons.com/files/icons/1072/face_avatars/300/a02.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   reddit: /user/sysadmeanderings/
-  dribbble:
+  dribbble: sysadmeanderings
   email: jeremy.s.thompson@gmail.com
-  facebook:
-  flickr:
+  facebook: sysadmeanderings
+  flickr: sysadmeanderings
   github: sysadmeanderings
-  instagram:
+  instagram: sysadmeanderings
   linkedin: jeremyscottthompson
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  pinterest: sysadmeanderings
+  rss: https://www.reddit.com/user/sysadmeanderings/
+  twitter: sysadmeanderings
+  stackoverflow: users/50476/sysadmeanderings
+  youtube: user/sysadmeanderings
+  googleplus: sysadmeanderings
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
