@@ -19,7 +19,6 @@ avatar: http://findicons.com/files/icons/1072/face_avatars/300/a02.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  reddit: /user/sysadmeanderings/
   dribbble: sysadmeanderings
   email: jeremy.s.thompson@gmail.com
   facebook: sysadmeanderings
@@ -29,7 +28,7 @@ footer-links:
   linkedin: jeremyscottthompson
   pinterest: sysadmeanderings
   rss: https://www.reddit.com/user/sysadmeanderings/
-  twitter: sysadmeanderings
+  twitter: sysadmeandering
   stackoverflow: users/50476/sysadmeanderings
   youtube: user/sysadmeanderings
   googleplus: sysadmeanderings
