@@ -4,7 +4,7 @@ title: Bulk edit Active Directory user attributes (Powershell)
 ---
 
 <code></code><code>PowerShell
-#Get list of current O365 users:
+&lt;#Get list of current O365 users:
 $ODusers = (get-aduser -filter * -Properties Name, SamAccountName, extensionAttribute15 | where {$_.extensionAttribute15 -eq "attribute"} | select-object Name, SamAccountName)
 $ODUsers | sort-object SamAccountName | Out-Gridview
 
